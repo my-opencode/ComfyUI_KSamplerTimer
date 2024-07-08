@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_ksamplertimer"
+description = "A custom node that returns the generation time of the KSampler. Intended for benchmarking or debugging."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/my-opencode/ComfyUI_KSamplerTimer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "industrialvectors"
+DisplayName = "ComfyUI_KSamplerTimer"
+Icon = "https://raw.githubusercontent.com/my-opencode/ComfyUI_KSamplerTimer/main/logo-small.png"

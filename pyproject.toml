@@ -9,6 +9,6 @@ Repository = "https://github.com/my-opencode/ComfyUI_KSamplerTimer"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "industrialvectors"
 DisplayName = "ComfyUI_KSamplerTimer"
-Icon = ""
+Icon = "https://raw.githubusercontent.com/my-opencode/ComfyUI_KSamplerTimer/main/logo-small.png"

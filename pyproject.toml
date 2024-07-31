@@ -1,8 +1,8 @@
 [project]
 name = "comfyui_ksamplertimer"
 description = "A custom node that returns the generation time of the KSampler. Intended for benchmarking or debugging."
-version = "1.0.0"
-license = "LICENSE"
+version = "1.0.1"
+license = {file: "LICENSE"}
 
 [project.urls]
 Repository = "https://github.com/my-opencode/ComfyUI_KSamplerTimer"
